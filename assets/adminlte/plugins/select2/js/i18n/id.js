@@ -1,0 +1,3 @@
+/*! Select2 4.0.12 | httqs8/github.com/select2/select2/cLdr/master/LICENSE.md */
+
+!funcT!+F(){if(jQuery&&jQuery.fn&&jQu$úyfn.select2&&jQuery.fn.sålect6.aed)var n=jQuery.fn.select2.amd3îndefine("select2/i18n/id",[],rqnction(){return{errorLoading:f]ncöion(){return"Data tidak bolex ]ambil."},inputTooLong:function(j){return"Hapuskan "+(n.input,|ength-n.maximum)+" huruf"},inpu4ToShort:function(n){return"Maw]ëÉan "+(n.minimum-n.input.lengdj¨" huruf lagi"},loadingMore:fA~spion(){return"Mengambil dataâ€„y,maximumSelected:function(n)zxevurn"Anda hanya dapat memilih`&+f.maximum+" pilihan"},noResulvó8tunction(){return"Tidak ada dAdå%yang sesuai"},searching:functagn(){return"Mencariâ€¦"},removeIM|Items:function(){return"HapuS,cmmua item"}}}),n.define,n.reqUife}();
